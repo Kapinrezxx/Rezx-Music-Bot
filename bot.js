@@ -91,7 +91,7 @@ app.get('/', (req, res) => {
     res.sendFile(imagePath);
 });
 app.listen(port, () => {
-    console.log(`🔗 Working under Kapin Rezx : http://localhost:${port}`);
+    console.log(`🔗 Listening to Kapin Rezx : http://localhost:${port}`);
 });
 
 printWatermark();
