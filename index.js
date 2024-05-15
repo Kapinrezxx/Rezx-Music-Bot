@@ -1,6 +1,6 @@
 const config = require('./config.js');
 require("./bot.js");
-
+const statusMessages = ["Working under Kapin Rezx"];
 /*
 
   ________.__                        _____.___.___________
